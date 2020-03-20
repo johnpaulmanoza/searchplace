@@ -1,0 +1,59 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Differentiator (3.1.0)
+  - LetterAvatarKit (1.1.7)
+  - ObjectMapper (3.5.2)
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.2)
+  - AlamofireObjectMapper (= 5.2.0)
+  - LetterAvatarKit (= 1.1.7)
+  - RxAtomic (= 4.4.0)
+  - RxCocoa (= 4.4.0)
+  - RxDataSources (= 3.1.0)
+  - RxSwift (= 4.4.0)
+  - SDWebImage (~> 4.4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Differentiator
+    - LetterAvatarKit
+    - ObjectMapper
+    - RxAtomic
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  LetterAvatarKit: b99ad07533ced023f91a3ba1f78d339e92f125b5
+  ObjectMapper: b53ae947d370bf89423e86be7d4e2d2b2a8d3f40
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+
+PODFILE CHECKSUM: fcf9c6c84fd172f5c60a5a004144fa644be92a0f
+
+COCOAPODS: 1.8.4
